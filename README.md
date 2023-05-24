@@ -52,5 +52,5 @@ Looking forward to connecting with fellow developers and contributing to the exc
 <hr/>
 
 <div align="center">
-  <img src="https://youthexpress.in/wp-content/uploads/2019/04/depositphotos_43853639-stock-photo-word-cloud-programming-languages-or.jpg" alt="Collage Image" width="90%">
+  <img src="https://raw.githubusercontent.com/Nitesh-Singh-5/Nitesh-Singh-5/main/icons/header_.png" alt="Collage Image" width="95%">
 </div>
