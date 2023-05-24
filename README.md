@@ -49,4 +49,5 @@ Looking forward to connecting with fellow developers and contributing to the exc
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashay10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashay10&show_icons=true&count_private=true)
 
+![Collage Image](https://c4.wallpaperflare.com/wallpaper/67/895/759/code-programming-programming-language-technology-computer-hd-wallpaper-preview.jpg)
 
