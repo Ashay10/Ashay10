@@ -29,5 +29,9 @@ Looking forward to connecting with fellow developers and contributing to the exc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ashay-sawarkar-8176811b5/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:dev.ashaysawarkar@gmail.com)
 
-# Full Stack Developer (Angular & React)
+# Tools and Technologies
+[![HTML](https://img.shields.io/badge/HTML-Tool-orange?logo=html5)](#)
+[![CSS](https://img.shields.io/badge/CSS-Tool-blue?logo=css3)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?logo=javascript)](#)
+
 
