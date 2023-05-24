@@ -44,6 +44,11 @@ Looking forward to connecting with fellow developers and contributing to the exc
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-Tool-purple?logo=bootstrap)](#)
 [![Material-UI](https://img.shields.io/badge/Material--UI-Tool-blue?logo=material-ui)](#)
 
+<style>
+    .github-stats-card {
+        background-color: transparent !important;
+    }
+</style>
 
 # Stats
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashay10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
