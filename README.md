@@ -47,10 +47,10 @@ Looking forward to connecting with fellow developers and contributing to the exc
 
 
 # Stats
-<div align="center">
+
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashay10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashay10&show_icons=true&count_private=true&bg_color=transparent)
-</div>
+
 
 <hr/>
 
