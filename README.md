@@ -33,5 +33,16 @@ Looking forward to connecting with fellow developers and contributing to the exc
 [![HTML](https://img.shields.io/badge/HTML-Tool-orange?logo=html5)](#)
 [![CSS](https://img.shields.io/badge/CSS-Tool-blue?logo=css3)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?logo=javascript)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Tool-blue?logo=typescript)](#)
+[![Angular](https://img.shields.io/badge/Angular-Tool-red?logo=angular)](#)
+[![React](https://img.shields.io/badge/React-Tool-blue?logo=react)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-Tool-green?logo=node.js)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-Tool-blue?logo=mysql)](#)
+[![Postman](https://img.shields.io/badge/Postman-Tool-orange?logo=postman)](#)
+[![Git](https://img.shields.io/badge/Git-Tool-red?logo=git)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-Tool-blue?logo=jquery)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-Tool-purple?logo=bootstrap)](#)
+[![Material-UI](https://img.shields.io/badge/Material--UI-Tool-blue?logo=material-ui)](#)
+
 
 
